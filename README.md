@@ -1,3 +1,9 @@
+# Created With Starter Pack from Coding Garden
+  
+  [npx](https://www.npmjs.com/package/create-express-api)
+  
+  original author: [CJ R.](https://github.com/w3cj)
+  
 # Express API Starter
 
 Includes API Server utilities:
